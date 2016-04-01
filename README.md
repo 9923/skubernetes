@@ -1,2 +1,2 @@
 # skubernetes
-study kubernetes
+study kubernetes own projects
